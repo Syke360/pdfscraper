@@ -1,4 +1,4 @@
-﻿PDF SCRAPER USER MANUAL (v1.5 - Hardened Edition)
+﻿PDF SCRAPER USER MANUAL 
 ================================================
 1. Double-click CLICK_ME.bat.
 2. Select your supplier PDF.
@@ -11,4 +11,4 @@ FAILURES & LOGS:
 - 'Security Block': The file was not a PDF or Image.
 - 'Size Block': The file was over 50MB.
 
-Support: Dave (IT Tech)
+
